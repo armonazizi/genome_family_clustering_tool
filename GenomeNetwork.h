@@ -1,8 +1,5 @@
 /*
 Armon Azizi
-A91037300
-
-CSE100 PA4 Extension
 
 GenomeNetwork.h
 

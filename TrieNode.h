@@ -1,9 +1,5 @@
 /*
 Armon Azizi
-A91037300
-
-CSE 100
-PA4 Extension
 
 TrieNode.h
 
